@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+	<item name="drawable/ic_lock_airplane_mode_off">@drawable/frameworks_res_ic_lock_airplane_mode_off</item>
+	<item name="drawable/ic_lock_airplane_mode">@drawable/frameworks_res_ic_lock_airplane_mode</item>
+	<item name="drawable/ic_lock_silent_mode_off">@drawable/frameworks_res_ic_lock_silent_mode_off</item>
+	<item name="drawable/ic_lock_silent_mode">@drawable/frameworks_res_ic_lock_silent_mode</item>
+	<item name="drawable/ic_lock_silent_mode_vibrate">@drawable/frameworks_res_ic_lock_silent_mode_vibrate</item>
+	<item name="drawable/ic_menu_add">@drawable/frameworks_res_ic_menu_add</item>
+	<item name="drawable/ic_menu_gallery">@drawable/frameworks_res_ic_menu_gallery</item>
+	<item name="drawable/ic_menu_notifications">@drawable/frameworks_res_ic_menu_notifications</item>
+	<item name="drawable/ic_menu_preferences">@drawable/frameworks_res_ic_menu_preferences</item>
+	<item name="drawable/ic_search_category_default">@drawable/frameworks_res_ic_search_category_default</item>
+</resource-redirections>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme-redirections
+   xmlns:android="http://schemas.android.com/apk/res/android" 
+   xmlns:pluto="http://www.w3.org/2001/pluto.html">
+
+    <package-redirections 
+	android:name="android"
+        android:minSdkVersion="7"
+        android:resource="@xml/android" />
+
+    <package-redirections 
+        android:name="com.android.settings" 
+        android:resource="@xml/com_android_settings" 
+        android:minSdkVersion="7" />
+</theme-redirections>
